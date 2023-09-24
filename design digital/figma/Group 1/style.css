@@ -1,0 +1,140 @@
+.group-1,
+.group-1 * {
+  box-sizing: border-box;
+}
+.group-1 {
+  width: 968px;
+  height: 1647px;
+  position: static;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  border-radius: 116px;
+  width: 968px;
+  height: 1647px;
+  position: absolute;
+  left: -1522px;
+  top: -1018px;
+}
+._54-b-972-c-504-b-660-f-6-e-7905-ff-1242245-c-9-2 {
+  border-radius: 105px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 774px;
+  height: 1559px;
+  position: absolute;
+  left: -1425px;
+  top: -974px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-8 {
+  background: #eaeaea;
+  border-radius: 49px;
+  width: 593px;
+  height: 277px;
+  position: absolute;
+  left: -1334px;
+  top: -533px;
+}
+.rectangle-9 {
+  background: #eaeaea;
+  border-radius: 49px;
+  width: 593px;
+  height: 277px;
+  position: absolute;
+  left: -1336px;
+  top: -222px;
+}
+.rectangle-10 {
+  background: #eaeaea;
+  border-radius: 49px;
+  width: 334px;
+  height: 114px;
+  position: absolute;
+  left: -1207px;
+  top: -813px;
+}
+.rectangle-11 {
+  background: #b5aeae;
+  border-radius: 38px;
+  width: 483px;
+  height: 90px;
+  position: absolute;
+  left: -1279px;
+  top: -432px;
+}
+.login {
+  color: #000000;
+  text-align: center;
+  font: 400 64px "Outfit", sans-serif;
+  position: absolute;
+  left: -1125px;
+  top: -796px;
+  width: 174px;
+  height: 77px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.user {
+  color: #000000;
+  text-align: center;
+  font: 400 32px "Manjari", sans-serif;
+  position: absolute;
+  left: -1298px;
+  top: -498px;
+  width: 97px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-12 {
+  background: #b5aeae;
+  border-radius: 38px;
+  width: 483px;
+  height: 90px;
+  position: absolute;
+  left: -1279px;
+  top: -129px;
+}
+.password {
+  color: #000000;
+  text-align: center;
+  font: 400 32px "Manjari", sans-serif;
+  position: absolute;
+  left: -1298px;
+  top: -195px;
+  width: 183px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.insert-username-or-email {
+  color: #aaa0a0;
+  text-align: center;
+  font: 400 32px "Inter", sans-serif;
+  position: absolute;
+  left: -1242px;
+  top: -422px;
+  width: 409px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.forgot-your-password {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: -1302px;
+  top: -25px;
+  width: 264px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
